@@ -1,10 +1,9 @@
 ---
 layout: post
-category : lessons
-tagline: "Battling imposter syndrome"
-tags : [imposter syndrome, julie pagano]
+title:  "Julie Pagano on battling imposter syndrome"
+date:   2016-04-07 17:30:02 -0400
+categories: talks
 ---
-{% include JB/setup %}
 
 I watched a [talk](https://www.youtube.com/watch?v=1i8ylq4j_EY) on imposter syndrome this morning by Julie Pagano that she delivered at PyCon 2014.
 
