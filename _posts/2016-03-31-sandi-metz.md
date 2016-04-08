@@ -4,7 +4,6 @@ category : lessons
 tagline: "All the little things"
 tags : [intro, beginner, sandi metz]
 ---
-{% include JB/setup %}
 
 We watched a 2014 RailsConf [talk](https://www.youtube.com/watch?v=8bZh5LMaSmE) by Sandi Metz
 after class yesterday. After spending so much time in the weeds trying to grasp all
