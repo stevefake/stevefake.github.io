@@ -5,7 +5,6 @@ description: ""
 category:
 tags: [Sandi Metz]
 ---
-{% include JB/setup %}
 
 sandi metz - first one; want better apps?
 
