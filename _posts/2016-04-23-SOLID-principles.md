@@ -18,16 +18,16 @@ One of the two creators of the SOLID principles, [Robert Martin](https://en.wiki
 
 The acronym can be broken down as follows (borrowed from [Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))):
 
-**S - Single Responsibility Principle (SRP)**
-  a class should have only a single responsibility (i.e. only one potential change in the software's specification should be able to affect the specification of the class)
-**O - Open/Closed Principle (OCP)**
-  “software entities … should be open for extension, but closed for modification.”
-**L - Liskov Substitution Principle (LSP)**
-  “objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.” See also design by contract.
-**I - Interface Segregation Principle (ISP)**
-  “many client-specific interfaces are better than one general-purpose interface.”
-**D - Dependency Inversion Principle (DIP)**
-  one should “Depend upon Abstractions. Do not depend upon concretions.”
+* **S - Single Responsibility Principle (SRP)**
+..*  a class should have only a single responsibility (i.e. only one potential change in the software's specification should be able to affect the specification of the class)
+* **O - Open/Closed Principle (OCP)**
+..*  “software entities … should be open for extension, but closed for modification.”
+* **L - Liskov Substitution Principle (LSP)**
+..*  “objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.” See also design by contract.
+* **I - Interface Segregation Principle (ISP)**
+..*  “many client-specific interfaces are better than one general-purpose interface.”
+* **D - Dependency Inversion Principle (DIP)**
+..*  one should “Depend upon Abstractions. Do not depend upon concretions.”
 
 To illustrate the **Single Responsibility Principle**, Ballard presents some example
 code with a single class, DealProcessor. I will only excerpt the relevant
